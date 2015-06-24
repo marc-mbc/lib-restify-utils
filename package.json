@@ -2,7 +2,7 @@
   "name": "lib-restify-utils",
   "description": "Api Micro Service restify utils",
   "author": "Marc Blando",
-  "email": "marc.blando@engrande.com",
+  "email": "marc.mbc@gmail.com",
   "private": true,
   "version": "1.0.3",
   "main": "./lib/main",
